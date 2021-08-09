@@ -6,6 +6,13 @@ author: Vinny Harris-Riviello
 ---
 ```
 
+<center>
+
+<img src = '{{ "../images/msse-logo-bg.svg" | relative_url }}'>  
+
+***Figure 1**: Sage - Usman's cat*
+</center>
+
 
 # Usman Jamshed
 Usman was born in Brooklyn, NY.
