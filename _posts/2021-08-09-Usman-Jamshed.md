@@ -9,7 +9,7 @@ author: Vinny Harris-Riviello
 
 <img src = '{{ "/images/sage.JPG" | relative_url }}'>  
 
-***Figure 1**: Sage - Usman's cat
+**Sage**: Usman's cat
 </center>
 
 
