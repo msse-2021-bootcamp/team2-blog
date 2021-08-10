@@ -5,7 +5,7 @@ author: Usman Jamshed
 ---
 <center>
 
-<img src = '{{ "/images/Kevin_Fong_Grad.jpg" | relative_url }}'>  
+<img src = '{{ "/images/Kevin_Fong_Grad1.jpg" | relative_url }}'>  
 
 </center>
 
