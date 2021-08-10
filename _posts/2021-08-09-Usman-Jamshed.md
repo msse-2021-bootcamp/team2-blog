@@ -8,7 +8,7 @@ author: Vinny Harris-Riviello
 
 <center>
 
-<img src = '{{ "../images/msse-logo-bg.svg" | relative_url }}'>  
+<img src = '{{ "/images/msse-logo-bg.svg" | relative_url }}'>  
 
 ***Figure 1**: Sage - Usman's cat*
 </center>
@@ -16,13 +16,13 @@ author: Vinny Harris-Riviello
 
 # Usman Jamshed
 Usman was born in Brooklyn, NY.
-He's been living in Toronto since he was 8 years old
+He's been living in Toronto since he was 8 years old.
 
 ## Pets
 He has a cat pet called sage like the color :)
 When he was growing up his family wanted low commitment animals, so when he had about 10 boggies. 
 Some flew away and some died :(. 
-Then they got a cat. 
+Then they got a cat :).
 
 ## Food
 His fav: Slice of pizza, a plain thin cheese pizza. He really prefers pizza cooked in top stone oven. High fat low mouiture, it does not split as easily, it is very watery. No garnish just plain cheese. 
