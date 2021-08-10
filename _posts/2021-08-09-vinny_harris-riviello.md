@@ -6,7 +6,7 @@ author: Kevin Fong
 
 <center>
 
-<img src = '{{ "/images/vinny.JPG" | relative_url }}'>   
+<img src = '{{ "/images/vinny.JPG" | relative_url }}' width="500">   
 
 </center>
 
@@ -28,8 +28,8 @@ She's not vegetarian, but she made a conscious decision to almost completely eli
 
 Vinny absolutely loves gardening. As she would say, it's great to have more flowers for pollinators, but it's also rewarding to grow herbs and vegatables that she gets to share with family. She's been gardening since 2012, and over the years she's continued to learn about different techniques and plants to try out. She has 2 sizable plots at work where she can do her personal gardening.  For her own challenge, she tries not to grow conventional plants, but oddities like exotic melons or different varieties of strawberries or eggplants. 
 
-<img src = '{{ "/images/IMG-9011.JPG" | relative_url }}'>  
-<img src = '{{ "/images/eggplant.JPG" | relative_url }}'> 
+<img src = '{{ "/images/IMG-9011.JPG" | relative_url }}' width="300">  
+<img src = '{{ "/images/eggplant.JPG" | relative_url }}' width="300"> 
 
 # Travelling!
 
