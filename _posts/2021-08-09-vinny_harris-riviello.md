@@ -20,13 +20,13 @@ Vinny has a strong affinity with animals, but unfortunately she is susceptible t
 
 # Food Preferences?
 
-Vinny loves french fries! not just McDonald's french fries, she loves to make her own french fries at home! She experiments with different type of potatoes with different combinations of flavors.  For example she might get a purple magic potatoes, cut them really thin, then season with toasted sesame oil and spices like paprika and garlic powder, with a little bit of pepper. She like to pair with a homemade sauce, like ranch dressing with salsa to give it a nice kick!
+Vinny loves french fries! not fast food type french fries, she loves to make her own french fries at home! She experiments with different type of potatoes with different combinations of flavors.  For example she might get a purple magic potatoes, cut them really thin, then season with toasted sesame oil and spices like paprika and garlic powder, with a little bit of pepper. She like to pair with a homemade sauce, like ranch dressing with salsa to give it a nice kick!
 
 She's not vegetarian, but she made a conscious decision to almost completely eliminate meat from her diet for health reasons. That being said, she might have meat a few times a year, because she doesn't want to close off oppurtunities in her life. However she will avoid any offal, or organ meats from animals, at any cost.
 
 # Hobbies: Gardening
 
-Vinny absolutely love gardening. As she would say, it's great to have more flowers for pollinators, but it's also rewarding to grow herbs and vegatables that she gets to share with family. She's been gardening since 2012, and over the years she's continued to learn about different techniques and plants to try out. She has 2 sizable plots at work where she can do her personal gardening.  For her own challenge, she tries not to grow conventional plants, but oddities like exotic melons or different varieties of strawberries or eggplants. 
+Vinny absolutely loves gardening. As she would say, it's great to have more flowers for pollinators, but it's also rewarding to grow herbs and vegatables that she gets to share with family. She's been gardening since 2012, and over the years she's continued to learn about different techniques and plants to try out. She has 2 sizable plots at work where she can do her personal gardening.  For her own challenge, she tries not to grow conventional plants, but oddities like exotic melons or different varieties of strawberries or eggplants. 
 
 <img src = '{{ "/images/IMG-9011.JPG" | relative_url }}' width="300">  
 <img src = '{{ "/images/eggplant.JPG" | relative_url }}' width="300"> 
