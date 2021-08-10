@@ -33,7 +33,7 @@ Vinny absolutely love gardening. As she would say, it's great to have more flowe
 
 # Travelling!
 
-If Vinny had no responsibilities for a day, she would, without a doubt, go to the beach with some friends. Before school she had a sabbatical year where she traveled the world with my friends. She traveled within the States, but also to Mexico and India. For Vinny, her sabbatical year was a chance to disconnect from the rigor of life to reconnect with the self and spirituality. The chance to return to the beach gives her a chance to reminisce on the simpler days.
+If Vinny had no responsibilities for a day, she would, without a doubt, go to the beach with some friends. Before school she had a sabbatical year where she traveled the world with your friends. She traveled within the States, but also to Mexico and India. For Vinny, her sabbatical year was a chance to disconnect from the rigor of life to reconnect with the self and spirituality. The chance to return to the beach gives her a chance to reminisce on the simpler days.
 
 # Things we have in common
 
